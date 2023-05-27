@@ -21,7 +21,9 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
       - name: npm install
-        run: npm ci  
+        run: npm ci
+      - name : npma npm i readline-sync
+        run: npm i readline-sync  
       - name: test
         run: npm test
       - name: test and coverage

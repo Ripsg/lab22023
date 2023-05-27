@@ -1,4 +1,4 @@
-[![Unit Tests](https://github.com/Ripsg/lab22023/actions/workflows/testing.yml/badge.svg?branch=mi-rama)](https://github.com/Ripsg/lab22023/actions/workflows/testing.yml)
+[![Unit Tests](https://github.com/Ripsg/lab22023/actions/workflows/testing.yml/badge.svg)](https://github.com/Ripsg/lab22023/actions/workflows/testing.yml)
 
 Implementation of a Simple Calculator with the next operations:
 

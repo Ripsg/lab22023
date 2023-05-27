@@ -8,6 +8,14 @@
 
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Ripsg_lab22023&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=Ripsg_lab22023)
 
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Ripsg_lab22023&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=Ripsg_lab22023)
+
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=Ripsg_lab22023&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=Ripsg_lab22023)
+
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Ripsg_lab22023&metric=bugs)](https://sonarcloud.io/summary/new_code?id=Ripsg_lab22023)
+
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Ripsg_lab22023&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=Ripsg_lab22023)
+
 Implementation of a Simple Calculator with the next operations:
 
  
